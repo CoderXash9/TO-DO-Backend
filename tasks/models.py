@@ -20,6 +20,7 @@ class Task(models.Model):
     due_date = models.DateField(
         null=True,
         blank=True,
+        
     )
 
     created_at = models.DateTimeField(auto_now_add=True)
