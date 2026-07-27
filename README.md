@@ -10,7 +10,7 @@ A Production-Ready RESTful API built using Django REST Framework
 Designed with scalability, clean architecture and REST best practices.
 </p>
 
-# 🚀 To-Do Backend API
+
 
 <p align="center">
 
