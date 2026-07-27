@@ -1,3 +1,15 @@
+<h1 align="center">
+🚀 To-Do Backend API
+</h1>
+
+<h3 align="center">
+A Production-Ready RESTful API built using Django REST Framework
+</h3>
+
+<p align="center">
+Designed with scalability, clean architecture and REST best practices.
+</p>
+
 # 🚀 To-Do Backend API
 
 <p align="center">
