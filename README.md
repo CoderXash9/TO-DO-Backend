@@ -32,7 +32,7 @@ Designed with scalability, clean architecture and REST best practices.
 - Django Admin - ![image alt](https://github.com/CoderXash9/TO-DO-Backend/blob/main/admin_page.png?raw=true)
 - API List View - ![image alt](image_url)
 - API Detail View - ![image alt](image_url)
-- POST Request - ![image alt](image_url)
+- POST Request - ![image alt](https://github.com/CoderXash9/TO-DO-Backend/blob/main/CRUD.png?raw=true)
 - Search - ![image alt](image_url)
 - Filter - ![image alt](image_url)
 
