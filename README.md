@@ -284,7 +284,7 @@ python manage.py runserver
 
 > Add screenshots here
 
-- Django Admin
+- Django Admin - "https://github.com/CoderXash9/TO-DO-Backend/blob/main/admin_page.png?raw=true"
 - API List View
 - API Detail View
 - POST Request
